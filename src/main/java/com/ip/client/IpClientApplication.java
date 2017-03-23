@@ -11,4 +11,5 @@ public class IpClientApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(IpClientApplication.class, args);
 	}
+
 }
